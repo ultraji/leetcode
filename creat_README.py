@@ -35,8 +35,8 @@ def _creat_row(path):
     with open(path, 'r', encoding='utf8') as tmp:
         lines = tmp.readlines()
         t, k = str(lines[3]), str(lines[4])
-    id = int(t[t.find('[')+1:t.find(']')])
-    title = t[t.rfind(' '):-1]
+    p, q = t.find('['), t.find(']')
+    id, title = int(t[p+1:q]), t[q+2:-1]
     path = path.replace("\\", "/")
     keywords = k[2:-1].split('、') if len(k) > 2 else None
     return Row(id, title, path, keywords)
