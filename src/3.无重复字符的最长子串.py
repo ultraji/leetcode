@@ -2,7 +2,7 @@
 # @lc app=leetcode.cn id=3 lang=python3
 #
 # [3] 无重复字符的最长子串
-#
+# hash-table|two-pointers|sliding-window
 
 # @lc code=start
 class Solution:

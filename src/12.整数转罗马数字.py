@@ -2,7 +2,7 @@
 # @lc app=leetcode.cn id=12 lang=python3
 #
 # [12] 整数转罗马数字
-#
+# hash-table
 
 # @lc code=start
 class Solution:

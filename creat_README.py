@@ -38,7 +38,7 @@ def _creat_row(path):
     p, q = t.find('['), t.find(']')
     id, title = int(t[p+1:q]), t[q+2:-1]
     path = path.replace("\\", "/")
-    keywords = k[2:-1].split('、') if len(k) > 2 else None
+    keywords = k[2:-1].split('|') if len(k) > 2 else None
     return Row(id, title, path, keywords)
 
 
