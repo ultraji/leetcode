@@ -17,4 +17,6 @@
 |    14 | 最长公共前缀 | [Accepted](src/14.最长公共前缀.py) |  |
 |    15 | 三数之和 | [Accepted](src/15.三数之和.py) | [two-pointers]( )、 |
 |    16 | 最接近的三数之和 | [Accepted](src/16.最接近的三数之和.py) | [two-pointers]( )、 |
+|    17 | 电话号码的字母组合 | [Accepted](src/17.电话号码的字母组合.py) |  |
+|    18 | 四数之和 | [Accepted](src/18.四数之和.py) | [two-pointers]( )、 |
 
