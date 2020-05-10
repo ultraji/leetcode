@@ -19,4 +19,6 @@
 |    16 | 最接近的三数之和 | [Accepted](src/16.最接近的三数之和.py) | [two-pointers]( )、 |
 |    17 | 电话号码的字母组合 | [Accepted](src/17.电话号码的字母组合.py) |  |
 |    18 | 四数之和 | [Accepted](src/18.四数之和.py) | [two-pointers]( )、 |
+|    19 | 删除链表的倒数第N个节点 | [Accepted](src/19.删除链表的倒数第n个节点.py) | [ two-pointers]( )、 |
+|    22 | 括号生成 | [Accepted](src/22.括号生成.py) | [backtracking]( )、 |
 
