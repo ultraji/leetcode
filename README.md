@@ -20,5 +20,9 @@
 |    17 | 电话号码的字母组合 | [Accepted](src/17.电话号码的字母组合.py) |  |
 |    18 | 四数之和 | [Accepted](src/18.四数之和.py) | [two-pointers]( )、 |
 |    19 | 删除链表的倒数第N个节点 | [Accepted](src/19.删除链表的倒数第n个节点.py) | [ two-pointers]( )、 |
+|    20 | 有效的括号 | [Accepted](src/20.有效的括号.py) |  |
+|    21 | 合并两个有序链表 | [Accepted](src/21.合并两个有序链表.py) |  |
 |    22 | 括号生成 | [Accepted](src/22.括号生成.py) | [backtracking]( )、 |
+|    24 | 两两交换链表中的节点 | [Accepted](src/24.两两交换链表中的节点.py) |  |
+|    29 | 两数相除 | [Accepted](src/29.两数相除.py) |  |
 
