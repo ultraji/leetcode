@@ -19,7 +19,7 @@ def _find_code_file(code_file_path):
     @param    code_file_path 代码文件所在目录
     @return
     """
-    fname_rules = r'.*?\.(h|c|hh|cpp|java|py)$'
+    fname_rules = r'.*?\.(h|c|hh|cpp|java|py|go)$'
     files = os.listdir(code_file_path)
     for file_name in files:
         if re.match(fname_rules, file_name):
@@ -49,7 +49,7 @@ def _creat_table(code_file_path):
     @return
     """
     with open("README.md", 'a', encoding='utf8') as readme:
-        readme.write("| ID | Title | Python | Keywords |\n")
+        readme.write("| ID | Title | Go | Keywords |\n")
         readme.write("| --- | --- | --- | --- |\n")
         row_list = [] 
         for fp in _find_code_file(code_file_path):
