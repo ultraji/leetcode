@@ -1,16 +1,16 @@
 package main
 
-import (
-	"math"
-	"strconv"
-	"strings"
-)
-
 /*
  * @lc app=leetcode.cn id=8 lang=golang
  *
  * [8] 字符串转换整数 (atoi)
  */
+
+import (
+	"math"
+	"strconv"
+	"strings"
+)
 
 // @lc code=start
 func myAtoi(str string) int {
