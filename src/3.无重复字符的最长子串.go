@@ -5,7 +5,9 @@ package main
  *
  * [3] 无重复字符的最长子串
  */
-// two-pointers
+// hash-table|two-pointers|string|sliding-window
+
+import "fmt"
 
 // @lc code=start
 func lengthOfLongestSubstring(s string) int {
@@ -24,7 +26,6 @@ func lengthOfLongestSubstring(s string) int {
 }
 
 // @lc code=end
-
-// func main() {
-// 	fmt.Println(lengthOfLongestSubstring("abcabcbb"))
-// }
+func main() {
+	fmt.Println(lengthOfLongestSubstring("abcabcbb"))
+}

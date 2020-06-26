@@ -5,8 +5,9 @@
 | ID | Title | Go | Keywords |
 | --- | --- | --- | --- |
 |     1 | 两数之和 | [Accepted](src/1.两数之和.go) | [hash-table]( )、 |
-|     2 | 两数相加 | [Accepted](src/2.两数相加.go) |  |
-|     3 | 无重复字符的最长子串 | [Accepted](src/3.无重复字符的最长子串.go) | [two-pointers]( )、 |
+|     2 | 两数相加 | [Accepted](src/2.两数相加.go) | [linked-list ]( )、[ math]( )、 |
+|     3 | 无重复字符的最长子串 | [Accepted](src/3.无重复字符的最长子串.go) | [hash-table ]( )、[ two-pointers ]( )、[ string ]( )、[ sliding-window]( )、 |
+|     4 | 寻找两个有序数组的中位数 | [Accepted](src/4.寻找两个有序数组的中位数.go) | [binary-search ]( )、[ divide-and-conquer]( )、 |
 |     6 | Z 字形变换 | [Accepted](src/6.z-字形变换.go) |  |
 |     7 | 整数反转 | [Accepted](src/7.整数反转.go) |  |
 |     8 | 字符串转换整数 (atoi) | [Accepted](src/8.字符串转换整数-atoi.go) |  |

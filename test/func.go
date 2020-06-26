@@ -1,4 +1,4 @@
-package function
+package test
 
 func max(a, b int) int {
 	if a > b {
