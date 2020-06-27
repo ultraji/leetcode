@@ -5,7 +5,7 @@ package main
  *
  * [11] 盛最多水的容器
  */
-// two-pointer
+// two-pointers
 
 // @lc code=sbtart
 func max(a, b int) int {

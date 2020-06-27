@@ -5,6 +5,7 @@ package main
  *
  * [9] 回文数
  */
+// math
 
 // @lc code=start
 func isPalindrome(x int) bool {

@@ -1,4 +1,4 @@
-package test
+package main
 
 // ListNode comment
 type ListNode struct {

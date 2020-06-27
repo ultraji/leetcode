@@ -5,6 +5,7 @@ package main
  *
  * [6] Z 字形变换
  */
+// string
 
 /*
  * 设：步长为 t = (numRows-1)*2
