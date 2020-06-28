@@ -18,4 +18,7 @@
 |    12 | 整数转罗马数字 | [Accepted](src/12.整数转罗马数字.go) | [hash-table]( )、 |
 |    13 | 罗马数字转整数 | [Accepted](src/13.罗马数字转整数.go) |  |
 |    14 | 最长公共前缀 | [Accepted](src/14.最长公共前缀.go) |  |
+|    15 | 三数之和 | [Accepted](src/15.三数之和.go) | [two-pointers]( )、 |
+|    16 | 最接近的三数之和 | [Accepted](src/16.最接近的三数之和.go) | [two-pointers]( )、 |
+|    17 | 电话号码的字母组合 | [Accepted](src/17.电话号码的字母组合.go) | [string]( )、[backtracking]( )、 |
 
