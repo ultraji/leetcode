@@ -21,4 +21,6 @@
 |    15 | 三数之和 | [Accepted](src/15.三数之和.go) | [two-pointers]( )、 |
 |    16 | 最接近的三数之和 | [Accepted](src/16.最接近的三数之和.go) | [two-pointers]( )、 |
 |    17 | 电话号码的字母组合 | [Accepted](src/17.电话号码的字母组合.go) | [string]( )、[backtracking]( )、 |
+|    18 | 四数之和 | [Accepted](src/18.四数之和.go) | [hash-table]( )、[two-pointers]( )、 |
+|    19 | 删除链表的倒数第N个节点 | [Accepted](src/19.删除链表的倒数第n个节点.go) | [linked-list]( )、[two-pointers]( )、 |
 
