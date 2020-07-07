@@ -25,4 +25,6 @@
 |    19 | 删除链表的倒数第N个节点 | [Accepted](src/19.删除链表的倒数第n个节点.go) | [linked-list]( )、[two-pointers]( )、 |
 |    20 | 有效的括号 | [Accepted](src/20.有效的括号.go) | [stack]( )、 |
 |    21 | 合并两个有序链表 | [Accepted](src/21.合并两个有序链表.go) | [linked-list]( )、 |
+|    22 | 括号生成 | [Accepted](src/22.括号生成.go) | [backtracking]( )、 |
+|    23 | 合并K个排序链表 | [Accepted](src/23.合并k个排序链表.go) | [linked-list]( )、[divide-and-conquer]( )、[heap]( )、 |
 
