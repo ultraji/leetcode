@@ -28,5 +28,9 @@
 |    22 | 括号生成 | [Accepted](src/22.括号生成.go) | [backtracking]( )、 |
 |    23 | 合并K个排序链表 | [Accepted](src/23.合并k个排序链表.go) | [linked-list]( )、[divide-and-conquer]( )、[heap]( )、 |
 |    24 | 两两交换链表中的节点 | [Accepted](src/24.两两交换链表中的节点.go) | [linked-list]( )、 |
+|    26 | 删除排序数组中的重复项 | [Accepted](src/26.删除排序数组中的重复项.go) | [two-pointers]( )、 |
+|    27 | 移除元素 | [Accepted](src/27.移除元素.go) | [two-pointers]( )、 |
+|    29 | 两数相除 | [Accepted](src/29.两数相除.go) | [binary-search]( )、 |
+|    35 | 搜索插入位置 | [Accepted](src/35.搜索插入位置.go) | [binary-search]( )、 |
 |   864 | 获取所有钥匙的最短路径 | [Accepted](src/864.获取所有钥匙的最短路径.go) | [dynamic-programming]( )、[breadth-first-search]( )、 |
 
